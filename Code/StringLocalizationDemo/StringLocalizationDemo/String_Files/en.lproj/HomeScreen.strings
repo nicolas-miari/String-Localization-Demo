@@ -1,0 +1,11 @@
+/* 
+  HomeScreen.strings
+  StringLocalizationDemo
+
+  Created by Nicolás Miari on 2020/03/05.
+  Copyright © 2020 Nicolás Miari. All rights reserved.
+*/
+
+"home_navigation_title" = "Home";
+
+"help_button_title" = "Help";
